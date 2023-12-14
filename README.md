@@ -50,6 +50,11 @@ Note that SimCLR benefits from **longer training**.
 
 We add a tensorboard to help the visualization of SimCLR more easily.
 
+Downloads the following folder: 
+https://drive.google.com/file/d/19v95ochltm6LBoFFBp1smGD0zPmJa4LR/view?usp=sharing
+
+Unzip at the folder ./runs
+
 To do so, move to the ./runs/tensorboard_folder/ and then: 
 
 '''
